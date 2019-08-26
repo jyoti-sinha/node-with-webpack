@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(255, 66, 66);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 100px;
+    color: #fff;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 0 3px 1px #000;
+}
